@@ -1,6 +1,6 @@
 # Walmart Retail Sales Analysis
 
-This project analyzes Walmart's retail sales data to uncover monthly trends, moving averages, and seasonal patterns. It also breaks down revenue by product category and region.
+This project analyzes Walmart's retail sales data to uncover monthly trends, moving averages, and seasonal patterns. It also breaks down revenue by department and store.
 
 ##  Key Features
 - Monthly sales aggregation
